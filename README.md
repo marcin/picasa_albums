@@ -16,7 +16,9 @@ Jak uruchomić
 w katalog głównym (którego podkatalogami są albumy stworzone przez Picasse czyli 2013-12-03, 2013-12-12, 2014-01-01 itp) wykonujemy:
 
 
-ruby picassa_album.rb
+```shell
+ruby picassa_album.rb /path/to/directory
+```
 
 po tym zdjęcia zostaną przeniesione do katalogów miesięcznych (2013-12, 2014-01 itp)
 
