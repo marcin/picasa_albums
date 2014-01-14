@@ -18,6 +18,9 @@ w katalog głównym (którego podkatalogami są albumy stworzone przez Picasse c
 
 ```shell
 ruby picassa_album.rb /path/to/directory
+
+(np. ruby picasa_albums.rb ~/Pictures/picasa2014/)
+
 ```
 
 po tym zdjęcia zostaną przeniesione do katalogów miesięcznych (2013-12, 2014-01 itp)
